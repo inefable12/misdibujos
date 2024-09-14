@@ -1,4 +1,6 @@
-diffusers["torch"] 
+streamlit
+torch
+diffusers
 transformers
 accelerate
-git+https://github.com/huggingface/diffusers
+flask
